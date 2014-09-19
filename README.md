@@ -1,4 +1,5 @@
-www
-====
+[qiyeyx.com](http://qiyeyx.com) 的博客
 
-企业邮箱
+本博客运行于 [Jekyll](http://jekyllrb.com) @ [GitHub](http://github.com/Yonsm/NET)，博客模板修改自 [Yonsm](https://github.com/Yonsm/NET) 。
+
+
